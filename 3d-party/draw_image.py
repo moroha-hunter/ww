@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 
-filename = '/tmp/perlin4000x4000.binary'
+filename = '/tmp/perlin4000x4000.binary' #float number on each line, these numbers are Perlin Noise
+
 f = open(filename, 'r')
 
 result = []
