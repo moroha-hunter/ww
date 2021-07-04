@@ -3,4 +3,6 @@ gcc Perlin.c -lm && ./a.out > perlin4000x4000.binary && python3 draw_image.py # 
 
 Notice:
 -Image files are 256x256
--float_line > 0.5 -> GREEN
+-float_line > 0.5 -> GREEN and < 0.5 -> BLUE
+-freq = 0.1
+-depth = 4
