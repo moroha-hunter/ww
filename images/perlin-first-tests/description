@@ -1,0 +1,2 @@
+nano Perlin.c # Change SEED
+gcc Perlin.c -lm && ./a.out > perlin4000x4000.binary && python3 draw_image.py # Generate .png
