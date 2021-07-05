@@ -1,4 +1,5 @@
  SEED 525188
+ 
  1024x1024
  Frequency 0.008
  Depth 25
